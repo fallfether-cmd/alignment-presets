@@ -1,0 +1,5 @@
+Here's some grid setting presets for specific alignments. Always use offset 0,0. For more info on the grid, check the guide:
+https://docs.google.com/document/d/1BMU_uPcpNZOJ_gdCBbEl6zD7R7382aSiMFIwaqHwO0E/edit?tab=t.0#heading=h.4tucjv5gse9t
+
+centerpoint guide: grid - 640,360 offset - 575, 305
+rule of thirds: 427,240 offset - 363, 175

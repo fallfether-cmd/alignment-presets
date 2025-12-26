@@ -1,0 +1,4 @@
+Bezier curves are a very powerful tool to make whatever curve shape you need. I used them to make the templates for all of my curves. 
+Head to this link: https://www.desmos.com/calculator/ub3drnykrt
+
+From here, you can drag the blue and black points to change the look of the bezier. Once you’re satisfied, take a screenshot and import that into the Rhythm Spell editor to have a guideline.
