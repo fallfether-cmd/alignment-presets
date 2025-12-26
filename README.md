@@ -2,6 +2,7 @@
 A folder containing images for alinging pattern in rhythm spell
 
 How to use:
+- Go to code>>>download as zip
 - In the rhythm spell editor, add a new block object.
 - change the image to whatever you want to use for alingment.
 - scale and rotate the image appropriately.
